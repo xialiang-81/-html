@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "multi_1",
+    "type": "multi",
+    "stem": "以下哪些方法可以用于大模型微调？",
+    "choices": {
+      "A": "数据增强",
+      "B": "迁移学习",
+      "C": "集成学习",
+      "D": "特征选择"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_2",
+    "type": "multi",
+    "stem": "大模型训练时，以下哪些因素可能影响训练速度？",
+    "choices": {
+      "A": "模型复杂度",
+      "B": "批次大小",
+      "C": "优化器类型",
+      "D": "硬件性能"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_3",
+    "type": "multi",
+    "stem": "以下哪些方法可以提高大模型的训练速度？",
+    "choices": {
+      "A": "使用更大的批次大小",
+      "B": "使用更小的学习率",
+      "C": "使用更快的硬件设备",
+      "D": "使用预训练模型进行微调"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_4",
+    "type": "multi",
+    "stem": "大模型训练时，以下哪些技巧可以减少过拟合？",
+    "choices": {
+      "A": "正则化",
+      "B": "Dropout",
+      "C": "数据增强",
+      "D": "早停法"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_5",
+    "type": "multi",
+    "stem": "以下哪些指标可以用来衡量大模型的性能？",
+    "choices": {
+      "A": "准确率",
+      "B": "召回率",
+      "C": "F1分数",
+      "D": "AUC-ROC曲线"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_6",
+    "type": "multi",
+    "stem": "在大模型训练过程中，以下哪些问题可能导致梯度消失或梯度爆炸？",
+    "choices": {
+      "A": "激活函数选择不当",
+      "B": "学习率设置不合适",
+      "C": "批量归一化操作",
+      "D": "权重初始化方法"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_7",
+    "type": "multi",
+    "stem": "以下哪些方法可以用于解决大模型训练中的梯度消失或梯度爆炸问题？",
+    "choices": {
+      "A": "使用ReLU激活函数",
+      "B": "使用LSTM网络结构",
+      "C": "使用批量归一化操作",
+      "D": "使用合适的权重初始化方法"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_8",
+    "type": "multi",
+    "stem": "在大模型训练过程中，以下哪些技巧可以提高模型的泛化能力？",
+    "choices": {
+      "A": "使用更多的训练数据",
+      "B": "使用数据增强技术",
+      "C": "使用迁移学习方法",
+      "D": "使用集成学习方法"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_9",
+    "type": "multi",
+    "stem": "在Python中，以下哪些运算符用于比较两个值是否相等？",
+    "choices": {
+      "A": "==",
+      "B": "!=",
+      "C": "<",
+      "D": ">"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_10",
+    "type": "multi",
+    "stem": "在Python中，以下哪些是循环语句？",
+    "choices": {
+      "A": "for",
+      "B": "while",
+      "C": "if",
+      "D": "def"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_11",
+    "type": "multi",
+    "stem": "在Python中，以下哪些方法可以用来打开文件？",
+    "choices": {
+      "A": "open()",
+      "B": "read()",
+      "C": "write()",
+      "D": "close()"
+    },
+    "answer": "A,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_12",
+    "type": "multi",
+    "stem": "在Python中，以下哪些关键字用于定义函数？",
+    "choices": {
+      "A": "def",
+      "B": "class",
+      "C": "if",
+      "D": "for"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_13",
+    "type": "multi",
+    "stem": "在Python中，以下哪些操作符用于逻辑运算？",
+    "choices": {
+      "A": "and",
+      "B": "or",
+      "C": "not",
+      "D": "=, ==, !=, <, >, <=, >="
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_14",
+    "type": "multi",
+    "stem": "在Python中，以下哪些方法可以用来处理字符串？",
+    "choices": {
+      "A": "find()",
+      "B": "replace()",
+      "C": "split()",
+      "D": "all()"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_15",
+    "type": "multi",
+    "stem": "在Python中，以下哪些是内置的数据结构？",
+    "choices": {
+      "A": "列表",
+      "B": "字典",
+      "C": "集合",
+      "D": "元组"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_16",
+    "type": "multi",
+    "stem": "大模型预训练的主要目的是什么？",
+    "choices": {
+      "A": "提高模型在特定任务上的性能",
+      "B": "减少模型过拟合的风险",
+      "C": "加速模型的训练过程",
+      "D": "降低模型的计算资源需求",
+      "E": "所有以上选项都是正确的"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_17",
+    "type": "multi",
+    "stem": "大模型预训练的主要优点包括哪些？",
+    "choices": {
+      "A": "提高模型在特定任务上的性能",
+      "B": "减少过拟合风险",
+      "C": "加快模型训练速度",
+      "D": "降低模型复杂度"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_18",
+    "type": "multi",
+    "stem": "以下哪些方法可以用于大模型预训练？",
+    "choices": {
+      "A": "自监督学习",
+      "B": "半监督学习",
+      "C": "有监督学习",
+      "D": "强化学习"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_19",
+    "type": "multi",
+    "stem": "以下哪些是典型的大模型预训练任务？",
+    "choices": {
+      "A": "掩码语言建模",
+      "B": "图像分类",
+      "C": "文本生成",
+      "D": "序列标注"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_20",
+    "type": "multi",
+    "stem": "以下哪些技术可以用于加速大模型预训练过程？",
+    "choices": {
+      "A": "分布式训练",
+      "B": "知识蒸馏",
+      "C": "迁移学习",
+      "D": "数据增强"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_21",
+    "type": "multi",
+    "stem": "大模型SFT的主要优点是什么？",
+    "choices": {
+      "A": "提高模型在特定任务上的性能",
+      "B": "减少过拟合风险",
+      "C": "加快模型训练速度",
+      "D": "降低模型复杂度"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_22",
+    "type": "multi",
+    "stem": "以下哪些方法可以用于大模型SFT的预训练？",
+    "choices": {
+      "A": "自监督学习",
+      "B": "半监督学习",
+      "C": "有监督学习",
+      "D": "强化学习"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_23",
+    "type": "multi",
+    "stem": "以下哪些是典型的大模型SFT预训练任务？",
+    "choices": {
+      "A": "掩码语言建模",
+      "B": "图像分类",
+      "C": "文本生成",
+      "D": "序列标注"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_24",
+    "type": "multi",
+    "stem": "下列哪些选项是大模型SFT的特点？",
+    "choices": {
+      "A": "能够处理大规模数据",
+      "B": "需要大量的计算资源",
+      "C": "可以用于多种任务，如文本分类、机器翻译等",
+      "D": "可以通过增加模型大小来提高性能"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_25",
+    "type": "multi",
+    "stem": "在大模型SFT中，以下哪些技术可以用于加速训练过程？",
+    "choices": {
+      "A": "分布式训练",
+      "B": "混合精度训练",
+      "C": "知识蒸馏",
+      "D": "迁移学习"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_26",
+    "type": "multi",
+    "stem": "在大模型SFT中，以下哪些方法可以用于缓解过拟合问题？",
+    "choices": {
+      "A": "正则化",
+      "B": "Dropout",
+      "C": "数据增强",
+      "D": "集成学习"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_27",
+    "type": "multi",
+    "stem": "在大模型SFT中，以下哪些因素可能影响模型性能？",
+    "choices": {
+      "A": "模型大小",
+      "B": "学习率设置",
+      "C": "批量大小",
+      "D": "优化器选择"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_28",
+    "type": "multi",
+    "stem": "在大模型数据标注和对齐过程中，以下哪些因素需要考虑？",
+    "choices": {
+      "A": "数据质量",
+      "B": "标注一致性",
+      "C": "标注准确性",
+      "D": "数据规模"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_29",
+    "type": "multi",
+    "stem": "在大模型数据标注和对齐过程中，以下哪些方法可以提高标注效率？",
+    "choices": {
+      "A": "使用标注工具",
+      "B": "制定标注规范",
+      "C": "多人协作标注",
+      "D": "自动化标注"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_30",
+    "type": "multi",
+    "stem": "在大模型数据标注和对齐过程中，以下哪些方法可以保证标注质量？",
+    "choices": {
+      "A": "定期检查标注结果",
+      "B": "对标注人员进行培训",
+      "C": "采用双重标注方法",
+      "D": "使用高质量的训练数据"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_31",
+    "type": "multi",
+    "stem": "在大模型数据标注和对齐过程中，以下哪些问题可能导致标注不一致？",
+    "choices": {
+      "A": "标注人员之间的沟通不畅",
+      "B": "缺乏明确的标注规范",
+      "C": "标注任务分配不合理",
+      "D": "标注人员的技能水平不同"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_32",
+    "type": "multi",
+    "stem": "下列哪些属于软件测试的类型？",
+    "choices": {
+      "A": "单元测试",
+      "B": "集成测试",
+      "C": "系统测试",
+      "D": "编译测试"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_33",
+    "type": "multi",
+    "stem": "下列哪些属于黑盒测试方法？",
+    "choices": {
+      "A": "等价类划分",
+      "B": "边界值分析",
+      "C": "因果图法",
+      "D": "代码审查"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_34",
+    "type": "multi",
+    "stem": "下列哪些属于白盒测试方法？",
+    "choices": {
+      "A": "路径测试",
+      "B": "数据流测试",
+      "C": "判定覆盖",
+      "D": "等价类划分"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_35",
+    "type": "multi",
+    "stem": "回归测试的主要目的是什么？",
+    "choices": {
+      "A": "确保新功能的正确性",
+      "B": "确保修改后的功能正确性",
+      "C": "确保所有功能的正确性",
+      "D": "确保软件的稳定性"
+    },
+    "answer": "B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_36",
+    "type": "multi",
+    "stem": "下列哪些属于数据错误？",
+    "choices": {
+      "A": "逻辑错误",
+      "B": "界面错误",
+      "C": "功能错误",
+      "D": "性能错误"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_37",
+    "type": "multi",
+    "stem": "下列哪些属于界面错误？",
+    "choices": {
+      "A": "逻辑错误",
+      "B": "数据错误",
+      "C": "功能错误",
+      "D": "性能错误"
+    },
+    "answer": "B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_38",
+    "type": "multi",
+    "stem": "下列哪些属于软件测试技术？",
+    "choices": {
+      "A": "等价类划分",
+      "B": "边界值分析",
+      "C": "因果图法",
+      "D": "状态转换测试"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_39",
+    "type": "multi",
+    "stem": "软件测试的主要目的是什么？",
+    "choices": {
+      "A": "验证软件是否满足用户需求",
+      "B": "确保软件没有错误",
+      "C": "提高软件的质量和性能",
+      "D": "降低软件开发成本"
+    },
+    "answer": "A,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_40",
+    "type": "multi",
+    "stem": "下列哪些属于软件测试的类型？",
+    "choices": {
+      "A": "单元测试",
+      "B": "集成测试",
+      "C": "系统测试",
+      "D": "用户界面测试"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_41",
+    "type": "multi",
+    "stem": "以下哪些因素可能影响软件测试的有效性？",
+    "choices": {
+      "A": "测试用例的设计质量",
+      "B": "测试环境的稳定性",
+      "C": "测试人员的技能水平",
+      "D": "软件的需求变更"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_42",
+    "type": "multi",
+    "stem": "什么是白盒测试和黑盒测试？",
+    "choices": {
+      "A": "白盒测试是根据软件的内部结构和逻辑来设计测试用例，而黑盒测试是根据软件的功能和用户需求来设计测试用例",
+      "B": "白盒测试需要了解软件的内部实现，而黑盒测试不需要了解软件的内部实现",
+      "C": "白盒测试主要关注软件的逻辑正确性，而黑盒测试主要关注软件的功能正确性",
+      "D": "白盒测试和黑盒测试都是面向用户的测试方法"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_43",
+    "type": "multi",
+    "stem": "软件缺陷管理的主要目的是什么？",
+    "choices": {
+      "A": "追踪和管理软件缺陷的生命周期",
+      "B": "确保软件缺陷得到及时修复",
+      "C": "评估软件开发团队的工作质量",
+      "D": "提供软件质量保证的证据"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_44",
+    "type": "multi",
+    "stem": "以下哪些是有效的软件缺陷报告内容？",
+    "choices": {
+      "A": "缺陷的描述和重现步骤",
+      "B": "缺陷的严重程度和优先级",
+      "C": "发现缺陷的日期和时间",
+      "D": "缺陷发现者的名字和联系方式"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_45",
+    "type": "multi",
+    "stem": "什么是负载测试和压力测试？",
+    "choices": {
+      "A": "负载测试是通过模拟大量用户并发访问来评估软件的性能和稳定性",
+      "B": "压力测试是通过不断增加系统负载，直到系统崩溃，以找出系统的极限承载能力",
+      "C": "负载测试主要关注系统的响应时间，而压力测试主要关注系统的稳定性",
+      "D": "负载测试只在软件开发阶段进行，不涉及维护阶段"
+    },
+    "answer": "A,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_46",
+    "type": "multi",
+    "stem": "以下哪些是监督学习的类型？",
+    "choices": {
+      "A": "无监督学习",
+      "B": "半监督学习",
+      "C": "强化学习",
+      "D": "支持向量机"
+    },
+    "answer": "B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_47",
+    "type": "multi",
+    "stem": "以下哪些是深度学习框架？",
+    "choices": {
+      "A": "TensorFlow",
+      "B": "PyTorch",
+      "C": "Scikit-learn",
+      "D": "Keras"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_48",
+    "type": "multi",
+    "stem": "以下哪些是强化学习的类型？",
+    "choices": {
+      "A": "Q-learning",
+      "B": "Deep Q Network",
+      "C": "Policy Gradient",
+      "D": "K-means聚类"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_49",
+    "type": "multi",
+    "stem": "以下哪些是机器学习的类型？",
+    "choices": {
+      "A": "无监督学习",
+      "B": "半监督学习",
+      "C": "强化学习",
+      "D": "关联规则学习"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_50",
+    "type": "multi",
+    "stem": "在推荐系统中，协同过滤（Collaborative Filtering）的主要思想是什么？",
+    "choices": {
+      "A": "根据用户的历史行为预测其未来行为",
+      "B": "根据物品的属性预测用户的评分",
+      "C": "根据用户和物品的关系进行推荐",
+      "D": "根据用户和物品的相似度进行推荐"
+    },
+    "answer": "A,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_51",
+    "type": "multi",
+    "stem": "以下哪些属于计算机人机交互的研究领域？",
+    "choices": {
+      "A": "图形用户界面设计",
+      "B": "语音识别与合成",
+      "C": "自然语言处理",
+      "D": "数据库管理",
+      "E": "软件工程"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_52",
+    "type": "multi",
+    "stem": "以下哪些是常用的计算机人机交互设备？",
+    "choices": {
+      "A": "鼠标",
+      "B": "键盘",
+      "C": "触摸屏",
+      "D": "扫描仪",
+      "E": "打印机"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_53",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互设计的原则？",
+    "choices": {
+      "A": "可见性原则",
+      "B": "反馈原则",
+      "C": "一致性原则",
+      "D": "简洁性原则",
+      "E": "可扩展性原则"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_54",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的界面模式？",
+    "choices": {
+      "A": "命令行界面",
+      "B": "图形用户界面",
+      "C": "自然用户界面",
+      "D": "语音用户界面",
+      "E": "触摸用户界面"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_55",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的人机交互任务？",
+    "choices": {
+      "A": "数据输入",
+      "B": "数据输出",
+      "C": "数据处理",
+      "D": "数据存储",
+      "E": "数据查询"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_56",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的用户体验设计要素？",
+    "choices": {
+      "A": "可用性",
+      "B": "可靠性",
+      "C": "效率",
+      "D": "可访问性",
+      "E": "安全性"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_57",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的自然语言处理技术？",
+    "choices": {
+      "A": "分词",
+      "B": "词性标注",
+      "C": "命名实体识别",
+      "D": "句法分析",
+      "E": "机器翻译"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_58",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的语音识别技术？",
+    "choices": {
+      "A": "模板匹配法",
+      "B": "隐马尔可夫模型法",
+      "C": "神经网络法",
+      "D": "动态时间规整法",
+      "E": "支持向量机法"
+    },
+    "answer": "A,B,C,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_59",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互中的语音合成技术？",
+    "choices": {
+      "A": "基于规则的语音合成方法",
+      "B": "拼接式语音合成方法",
+      "C": "参数式语音合成方法",
+      "D": "深度学习语音合成方法",
+      "E": "混合语音合成方法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_60",
+    "type": "multi",
+    "stem": "以下哪些是计算机人机交互的研究领域？",
+    "choices": {
+      "A": "用户界面设计",
+      "B": "语音识别",
+      "C": "机器翻译",
+      "D": "虚拟现实技术",
+      "E": "网络安全"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_61",
+    "type": "multi",
+    "stem": "以下哪些因素会影响人机交互的效果？",
+    "choices": {
+      "A": "用户技能水平",
+      "B": "系统响应速度",
+      "C": "用户界面美观程度",
+      "D": "系统稳定性",
+      "E": "用户需求满足程度"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_62",
+    "type": "multi",
+    "stem": "以下哪些是常用的人机交互设备？",
+    "choices": {
+      "A": "鼠标",
+      "B": "键盘",
+      "C": "触摸屏",
+      "D": "手柄",
+      "E": "VR眼镜"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_63",
+    "type": "multi",
+    "stem": "以下哪些是常用的人机交互接口？",
+    "choices": {
+      "A": "命令行界面",
+      "B": "图形用户界面",
+      "C": "WIMP界面",
+      "D": "语音控制界面",
+      "E": "手势识别界面"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_64",
+    "type": "multi",
+    "stem": "以下哪些是人机交互设计的原则？",
+    "choices": {
+      "A": "简单易用原则",
+      "B": "一致性原则",
+      "C": "可控性原则",
+      "D": "可扩展性原则",
+      "E": "美观性原则"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_65",
+    "type": "multi",
+    "stem": "以下哪些是常用的用户体验评估方法？",
+    "choices": {
+      "A": "问卷调查法",
+      "B": "焦点小组访谈法",
+      "C": "可用性测试法",
+      "D": "A/B测试法",
+      "E": "竞品分析法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_66",
+    "type": "multi",
+    "stem": "以下哪些是常用的信息可视化技术？",
+    "choices": {
+      "A": "柱状图",
+      "B": "饼图",
+      "C": "散点图",
+      "D": "热力图",
+      "E": "E-R图"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_67",
+    "type": "multi",
+    "stem": "下列哪些是常见的排序算法？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "插入排序",
+      "D": "选择排序",
+      "E": "递归排序"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_68",
+    "type": "multi",
+    "stem": "下列哪些是常见的查找算法？",
+    "choices": {
+      "A": "线性查找",
+      "B": "二分查找",
+      "C": "哈希查找",
+      "D": "树形查找",
+      "E": "递归查找"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_69",
+    "type": "multi",
+    "stem": "下列哪些是常见的图算法？",
+    "choices": {
+      "A": "深度优先搜索",
+      "B": "广度优先搜索",
+      "C": "Dijkstra算法",
+      "D": "Kruskal算法",
+      "E": "Prim算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_70",
+    "type": "multi",
+    "stem": "下列哪些是常见的动态规划算法？",
+    "choices": {
+      "A": "最长公共子序列",
+      "B": "背包问题",
+      "C": "旅行商问题",
+      "D": "最短路径问题",
+      "E": "最大子数组和问题"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_71",
+    "type": "multi",
+    "stem": "下列哪些是常见的字符串匹配算法？",
+    "choices": {
+      "A": "朴素模式匹配",
+      "B": "KMP算法",
+      "C": "Boyer-Moore算法",
+      "D": "Rabin-Karp算法",
+      "E": "Smith-Waterman算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_72",
+    "type": "multi",
+    "stem": "下列哪些是常见的最短路径算法？",
+    "choices": {
+      "A": "Dijkstra算法",
+      "B": "Bellman-Ford算法",
+      "C": "Floyd-Warshall算法",
+      "D": "A*算法",
+      "E": "Johnson's算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_73",
+    "type": "multi",
+    "stem": "下列哪些是常见的最小生成树算法？",
+    "choices": {
+      "A": "Kruskal算法",
+      "B": "Prim算法",
+      "C": "Boruvka算法",
+      "D": "Jarník算法",
+      "E": "Cockcroft-Walton算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_74",
+    "type": "multi",
+    "stem": "下列哪些是常见的拓扑排序算法？",
+    "choices": {
+      "A": "Kahn算法",
+      "B": "DFS算法",
+      "C": "BFS算法",
+      "D": "Tarjan算法",
+      "E": "Kosaraju算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_75",
+    "type": "multi",
+    "stem": "下列哪些是常见的贪心算法？",
+    "choices": {
+      "A": "Huffman编码",
+      "B": "分数背包问题",
+      "C": "活动选择问题",
+      "D": "区间调度问题",
+      "E": "Steiner树问题"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_76",
+    "type": "multi",
+    "stem": "下列哪些是常见的分治算法？",
+    "choices": {
+      "A": "二分查找",
+      "B": "归并排序",
+      "C": "快速排序",
+      "D": "堆排序",
+      "E": "Strassen矩阵乘法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_77",
+    "type": "multi",
+    "stem": "下列哪些是常见的排序算法？",
+    "choices": {
+      "A": "快速排序",
+      "B": "归并排序",
+      "C": "堆排序",
+      "D": "冒泡排序",
+      "E": "DFS"
+    },
+    "answer": "A,B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_78",
+    "type": "multi",
+    "stem": "下列哪些是常见的查找算法？",
+    "choices": {
+      "A": "二分查找",
+      "B": "线性查找",
+      "C": "哈希查找",
+      "D": "B树查找",
+      "E": "KMP查找"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_79",
+    "type": "multi",
+    "stem": "下列哪些是常见的图算法？",
+    "choices": {
+      "A": "Dijkstra算法",
+      "B": "Kruskal算法",
+      "C": "Prim算法",
+      "D": "Floyd算法",
+      "E": "BFS"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_80",
+    "type": "multi",
+    "stem": "下列哪些是常见的动态规划算法？",
+    "choices": {
+      "A": "最长公共子序列",
+      "B": "0/1背包问题",
+      "C": "旅行商问题",
+      "D": "编辑距离",
+      "E": "最小生成树"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_81",
+    "type": "multi",
+    "stem": "下列哪些是常见的贪心算法？",
+    "choices": {
+      "A": "分数背包问题",
+      "B": "Knapsack问题",
+      "C": "Huffman编码问题",
+      "D": "最小生成树问题",
+      "E": "DAG的拓扑排序"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_82",
+    "type": "multi",
+    "stem": "下列哪些是常见的回溯算法？",
+    "choices": {
+      "A": "N皇后问题",
+      "B": "图的着色问题",
+      "C": "旅行商问题",
+      "D": "八皇后问题",
+      "E": "全排列问题"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_83",
+    "type": "multi",
+    "stem": "下列哪些是常见的分支限界算法？",
+    "choices": {
+      "A": "Knapsack问题",
+      "B": "0/1背包问题",
+      "C": "Clique问题",
+      "D": "Travelling Salesman问题",
+      "E": "Job Shop调度问题"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_84",
+    "type": "multi",
+    "stem": "下列哪些是常见的剪枝算法？",
+    "choices": {
+      "A": "A*算法",
+      "B": "ID3算法",
+      "C": "C4.5算法",
+      "D": "CART算法",
+      "E": "CHAID算法"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_85",
+    "type": "multi",
+    "stem": "下列哪些是常见的迭代深化搜索算法？",
+    "choices": {
+      "A": "IDA*算法",
+      "B": "AO*算法",
+      "C": "LPA*算法",
+      "D": "RRT*算法",
+      "E": "DLS算法（双向广度优先搜索）"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_86",
+    "type": "multi",
+    "stem": "下列哪些是常见的遗传算法操作算子？",
+    "choices": {
+      "A": "选择操作算子（Selection）",
+      "B": "交叉操作算子（Crossover）",
+      "C": "变异操作算子（Mutation）",
+      "D": "适应度函数（Fitness Function）",
+      "E": "初始化种群（Initialization）"
+    },
+    "answer": "A,B,C,D,E",
+    "analysis": ""
+  },
+  {
+    "id": "multi_87",
+    "type": "multi",
+    "stem": "在prompt工程中，哪些因素可能影响生成模型的输出质量？",
+    "choices": {
+      "A": "数据集的大小和质量",
+      "B": "模型的训练时长",
+      "C": "用于生成任务的prompt的详细程度",
+      "D": "使用的硬件设备的速度"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_88",
+    "type": "multi",
+    "stem": "当使用语言模型进行文本生成时，以下哪些选项是提高结果相关性的有效策略？",
+    "choices": {
+      "A": "增加prompt的具体性和明确性",
+      "B": "减少生成文本的长度",
+      "C": "使用更大的语言模型",
+      "D": "在prompt中明确指定所需信息的类型"
+    },
+    "answer": "A,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_89",
+    "type": "multi",
+    "stem": "在设计用于图像生成的prompt时，以下哪些元素可能会提高生成图像的准确性和创造性？",
+    "choices": {
+      "A": "描述的具体性",
+      "B": "引入无关细节",
+      "C": "使用形容词和副词增强描述",
+      "D": "明确指定图像的风格和主题"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_90",
+    "type": "multi",
+    "stem": "在进行prompt工程时，为了提高模型对prompt的理解，可以采用哪些技巧？",
+    "choices": {
+      "A": "使用自然语言处理技术预处理prompt",
+      "B": "采用多个小的、专门化的prompt而非一个大的、通用的prompt",
+      "C": "保持prompt简洁明了，避免过多的技术术语",
+      "D": "在prompt中包含示例或模板"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_91",
+    "type": "multi",
+    "stem": "在使用大型语言模型进行问答任务时，以下哪些因素会影响回答的准确性和相关性？",
+    "choices": {
+      "A": "问题的明确性和具体性",
+      "B": "提供给模型的背景信息量",
+      "C": "模型的大小和训练数据的质量",
+      "D": "回答的生成长度"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_92",
+    "type": "multi",
+    "stem": "在设计用于提高文本生成模型效果的prompt时，应该考虑的因素包括：",
+    "choices": {
+      "A": "目标领域的特定术语使用",
+      "B": "模型训练时的数据分布",
+      "C": "生成文本的最大长度",
+      "D": "用户的反馈和偏好"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_93",
+    "type": "multi",
+    "stem": "使用条件生成模型时，以下哪些方法可以帮助优化prompt以获取更好的结果？",
+    "choices": {
+      "A": "精确控制输出文本的风格和语调",
+      "B": "限制输出的字数或句子数量",
+      "C": "在prompt中加入负面示例",
+      "D": "逐步细化和调整prompt"
+    },
+    "answer": "A,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_94",
+    "type": "multi",
+    "stem": "在使用GPT-like模型进行内容生成时，以下哪些做法有助于提高输出质量？",
+    "choices": {
+      "A": "给模型提供详细的背景信息",
+      "B": "使用尽可能短的prompt",
+      "C": "在prompt中明确指出不想要的输出类型",
+      "D": "通过多次迭代和修改prompt来测试不同的表述方式"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_95",
+    "type": "multi",
+    "stem": "关于提高机器翻译模型性能的prompt设计，以下哪些陈述是正确的？",
+    "choices": {
+      "A": "提前在prompt中指定语言对",
+      "B": "包含大量的专业术语以测试模型的能力",
+      "C": "提供上下文信息以增加翻译的准确性",
+      "D": "明确期望的翻译风格或正式程度"
+    },
+    "answer": "A,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_96",
+    "type": "multi",
+    "stem": "在进行prompt工程以优化语音识别模型的表现时，应该：",
+    "choices": {
+      "A": "优先使用长句和复杂结构以提高模型的挑战性",
+      "B": "包含各种口音和发音的样例",
+      "C": "明确指定识别的环境噪音水平",
+      "D": "考虑到录音的质量和清晰度"
+    },
+    "answer": "B,C,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_97",
+    "type": "multi",
+    "stem": "对于基于transformer的模型进行文本摘要任务，有效的prompt设计策略包括：",
+    "choices": {
+      "A": "明确指出摘要的期望长度",
+      "B": "提供关键词作为摘要的引导",
+      "C": "包括原文中的一些直接引用",
+      "D": "强调摘要中不应包含的信息类型"
+    },
+    "answer": "A,B,D",
+    "analysis": ""
+  },
+  {
+    "id": "multi_98",
+    "type": "multi",
+    "stem": "在使用自然语言处理模型进行情感分析时，以下哪些prompt设计技巧是有效的？",
+    "choices": {
+      "A": "强调需要区分的情感类别",
+      "B": "提供典型的正面和负面情绪的例子",
+      "C": "限制回答的长度以增加精确度",
+      "D": "使用专业的心理学术语来描述情绪"
+    },
+    "answer": "A,B",
+    "analysis": ""
+  },
+  {
+    "id": "multi_99",
+    "type": "multi",
+    "stem": "在利用深度学习模型进行数据清洗时，有效的prompt设计应当考虑：",
+    "choices": {
+      "A": "明确标出数据中的异常值",
+      "B": "指定数据格式和预期范围",
+      "C": "强调数据的时效性和相关性",
+      "D": "提示模型依赖于外部验证来确认数据的准确性"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  },
+  {
+    "id": "multi_100",
+    "type": "multi",
+    "stem": "在使用AI进行创意写作时，以下哪些策略可以提升生成内容的创新性和多样性？",
+    "choices": {
+      "A": "使用开放式问题作为prompt",
+      "B": "引导模型避免使用常见短语和惯用语",
+      "C": "指定使用特定的文学风格或作家的写作方式",
+      "D": "限定故事的具体情节和角色"
+    },
+    "answer": "A,B,C",
+    "analysis": ""
+  }
+]

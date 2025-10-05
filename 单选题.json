@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "single_1",
+    "type": "single",
+    "stem": "人工智能的主要研究领域包括：",
+    "choices": {
+      "A": "计算机视觉",
+      "B": "自然语言处理",
+      "C": "语音识别",
+      "D": "所有以上"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_2",
+    "type": "single",
+    "stem": "大语言模型（Large Language Model，LLM）是一种基于深度学习的：",
+    "choices": {
+      "A": "图像生成模型",
+      "B": "文本生成模型",
+      "C": "音频生成模型",
+      "D": "视频生成模型"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_3",
+    "type": "single",
+    "stem": "以下哪个是大语言模型的训练方法？",
+    "choices": {
+      "A": "监督学习",
+      "B": "半监督学习",
+      "C": "无监督学习",
+      "D": "增强学习"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_4",
+    "type": "single",
+    "stem": "Transformer架构最初是为解决什么问题而提出的？",
+    "choices": {
+      "A": "图像分类",
+      "B": "语音识别",
+      "C": "机器翻译",
+      "D": "文本生成"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_5",
+    "type": "single",
+    "stem": "GPT-3是由哪家公司开发的？",
+    "choices": {
+      "A": "Google",
+      "B": "Facebook",
+      "C": "Microsoft",
+      "D": "OpenAI"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_6",
+    "type": "single",
+    "stem": "BERT模型的主要目的是：",
+    "choices": {
+      "A": "文本分类",
+      "B": "命名实体识别",
+      "C": "问答系统",
+      "D": "情感分析"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_7",
+    "type": "single",
+    "stem": "以下哪个是大语言模型在自然语言处理（NLP）领域的应用？",
+    "choices": {
+      "A": "图像生成",
+      "B": "语音识别",
+      "C": "机器翻译",
+      "D": "视频分析"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_8",
+    "type": "single",
+    "stem": "ELMo模型的主要特点是：",
+    "choices": {
+      "A": "双向性",
+      "B": "预训练和微调的结合",
+      "C": "基于循环神经网络（RNN）",
+      "D": "基于卷积神经网络（CNN）"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_9",
+    "type": "single",
+    "stem": "GPT-3模型具有多少亿个参数？",
+    "choices": {
+      "A": "10亿",
+      "B": "100亿",
+      "C": "1000亿",
+      "D": "1万亿"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_10",
+    "type": "single",
+    "stem": "以下哪个是大语言模型在对话系统中的应用场景？",
+    "choices": {
+      "A": "智能客服机器人",
+      "B": "语音助手",
+      "C": "图像识别",
+      "D": "视频分析"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_11",
+    "type": "single",
+    "stem": "人工智能的定义是什么？",
+    "choices": {
+      "A": "使机器能够像人一样思考和行动",
+      "B": "使机器能够执行复杂的计算任务",
+      "C": "使机器能够模仿人类的某些智能行为",
+      "D": "使机器能够进行自我学习和改进"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_12",
+    "type": "single",
+    "stem": "以下哪个是人工智能的子领域？",
+    "choices": {
+      "A": "生物学",
+      "B": "物理学",
+      "C": "计算机科学",
+      "D": "化学"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_13",
+    "type": "single",
+    "stem": "以下哪个是大语言模型的例子？",
+    "choices": {
+      "A": "GPT-3",
+      "B": "LSTM",
+      "C": "CNN",
+      "D": "RNN"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_14",
+    "type": "single",
+    "stem": "大语言模型的主要功能是什么？",
+    "choices": {
+      "A": "图像识别",
+      "B": "语音识别",
+      "C": "自然语言处理",
+      "D": "数据分析"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_15",
+    "type": "single",
+    "stem": "以下哪个是大语言模型的训练方法？",
+    "choices": {
+      "A": "监督学习",
+      "B": "无监督学习",
+      "C": "半监督学习",
+      "D": "所有以上的答案"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_16",
+    "type": "single",
+    "stem": "大语言模型的训练需要大量的数据，这是因为什么？",
+    "choices": {
+      "A": "大语言模型的性能更好",
+      "B": "大语言模型的参数更多",
+      "C": "大语言模型需要从数据中学习规律",
+      "D": "大语言模型需要有足够的数据来防止过拟合"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_17",
+    "type": "single",
+    "stem": "以下哪个是大语言模型的应用场景？",
+    "choices": {
+      "A": "自动驾驶",
+      "B": "语音识别",
+      "C": "自然语言生成",
+      "D": "所有的以上的答案"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_18",
+    "type": "single",
+    "stem": "大语言模型的优点是什么？",
+    "choices": {
+      "A": "可以处理大量的文本数据",
+      "B": "可以进行复杂的计算任务",
+      "C": "可以进行自我学习和改进",
+      "D": "所有以上的答案"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_19",
+    "type": "single",
+    "stem": "大语言模型的缺点是什么？",
+    "choices": {
+      "A": "需要大量的计算资源",
+      "B": "训练过程可能会消耗大量的时间",
+      "C": "可能会出现过拟合的问题",
+      "D": "所有以上的答案"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_20",
+    "type": "single",
+    "stem": "以下哪个是大语言模型的挑战？",
+    "choices": {
+      "A": "如何提高模型的性能",
+      "B": "如何减少训练时间",
+      "C": "如何防止过拟合",
+      "D": "所有以上的答案"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_21",
+    "type": "single",
+    "stem": "下列哪个选项不属于基本数据结构？",
+    "choices": {
+      "A": "数组",
+      "B": "链表",
+      "C": "栈",
+      "D": "操作系统"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_22",
+    "type": "single",
+    "stem": "队列是一种什么类型的数据结构？",
+    "choices": {
+      "A": "线性结构",
+      "B": "非线性结构",
+      "C": "树形结构",
+      "D": "图形结构"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_23",
+    "type": "single",
+    "stem": "下列哪个选项不属于线性表的实现方式？",
+    "choices": {
+      "A": "顺序存储",
+      "B": "链式存储",
+      "C": "哈希存储",
+      "D": "二叉树存储"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_24",
+    "type": "single",
+    "stem": "栈的特点是？",
+    "choices": {
+      "A": "先进先出",
+      "B": "后进先出",
+      "C": "随机访问",
+      "D": "按元素大小排序"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_25",
+    "type": "single",
+    "stem": "下列哪个选项不属于树的遍历方式？",
+    "choices": {
+      "A": "前序遍历",
+      "B": "中序遍历",
+      "C": "后序遍历",
+      "D": "层次遍历"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_26",
+    "type": "single",
+    "stem": "二叉树的前序遍历顺序是？",
+    "choices": {
+      "A": "左子树-根节点-右子树",
+      "B": "根节点-左子树-右子树",
+      "C": "左子树-右子树-根节点",
+      "D": "根节点-右子树-左子树"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_27",
+    "type": "single",
+    "stem": "下列哪个选项不属于图的遍历方式？",
+    "choices": {
+      "A": "深度优先搜索",
+      "B": "广度优先搜索",
+      "C": "层次遍历",
+      "D": "插入排序"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_28",
+    "type": "single",
+    "stem": "哈希表的查找时间复杂度是？",
+    "choices": {
+      "A": "O(1)",
+      "B": "O(n)",
+      "C": "O(log n)",
+      "D": "O(n log n)"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_29",
+    "type": "single",
+    "stem": "下列哪个选项不属于排序算法？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "插入排序",
+      "D": "数据库查询"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_30",
+    "type": "single",
+    "stem": "递归算法的优点是什么？",
+    "choices": {
+      "A": "代码简洁，易于理解",
+      "B": "执行效率高，节省内存空间",
+      "C": "适用于解决复杂问题，易于扩展",
+      "D": "所有选项都正确"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_31",
+    "type": "single",
+    "stem": "下列哪个选项不属于动态规划的基本概念？",
+    "choices": {
+      "A": "最优子结构",
+      "B": "重叠子问题",
+      "C": "无后效性",
+      "D": "贪心算法"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_32",
+    "type": "single",
+    "stem": "二叉查找树的平均查找长度是？",
+    "choices": {
+      "A": "O(log n)",
+      "B": "O(n)",
+      "C": "O(n log n)",
+      "D": "O(n^2)"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_33",
+    "type": "single",
+    "stem": "下列哪个选项不属于堆的类型？",
+    "choices": {
+      "A": "大根堆",
+      "B": "小根堆",
+      "C": "双向堆",
+      "D": "B树"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_34",
+    "type": "single",
+    "stem": "平衡二叉树的插入操作会导致树的高度增加吗？",
+    "choices": {
+      "A": "会，每次插入都会增加高度",
+      "B": "不会，插入操作不会导致高度增加，只会保持平衡状态",
+      "C": "如果插入位置不合适，会增加高度，否则不会增加高度",
+      "D": "A和C都对"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_35",
+    "type": "single",
+    "stem": "下列哪个选项不属于图的表示方法？",
+    "choices": {
+      "A": "邻接矩阵表示法",
+      "B": "邻接表表示法",
+      "C": "边集表示法",
+      "D": "B树表示法"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_36",
+    "type": "single",
+    "stem": "在二叉查找树中，叶子节点的个数等于多少？",
+    "choices": {
+      "A": "n/2 + 1（n为节点数）",
+      "B": "n/2（n为节点数）",
+      "C": "n（n为节点数） - 1（减一是因为根节点没有左右子节点）",
+      "D": "n（n为节点数） - n/2（减一是因为根节点没有左右子节点）"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_37",
+    "type": "single",
+    "stem": "下列哪个选项不属于数据结构的应用领域？",
+    "choices": {
+      "A": "操作系统调度算法优化",
+      "B": "数据库索引设计优化",
+      "C": "人工智能算法优化",
+      "D": "C语言语法规则优化"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_38",
+    "type": "single",
+    "stem": "在二叉查找树中，查找一个不存在的元素的时间复杂度是？",
+    "choices": {
+      "A": "O(1)（如果该元素不存在，则返回null）",
+      "B": "O(log n)（最坏情况下需要查找到叶子节点）",
+      "C": "O(n)（需要遍历整个树）",
+      "D": "O(n log n)（需要遍历整个树）"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_39",
+    "type": "single",
+    "stem": "计算机视觉的主要目标是：",
+    "choices": {
+      "A": "识别图像中的对象",
+      "B": "分析图像中的纹理和颜色",
+      "C": "从图像中提取信息并理解场景",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_40",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的特征提取方法？",
+    "choices": {
+      "A": "SIFT",
+      "B": "PCA",
+      "C": "LDA",
+      "D": "K-means"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_41",
+    "type": "single",
+    "stem": "卷积神经网络（CNN）在计算机视觉中的应用主要是：",
+    "choices": {
+      "A": "图像分类",
+      "B": "对象检测",
+      "C": "语义分割",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_42",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的目标跟踪算法？",
+    "choices": {
+      "A": "KLT跟踪器",
+      "B": "Particle filter",
+      "C": "Mean shift",
+      "D": "Hough变换"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_43",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的立体匹配算法？",
+    "choices": {
+      "A": "SIFT",
+      "B": "ORB",
+      "C": "SURF",
+      "D": "Stereo matching"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_44",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的光流估计算法？",
+    "choices": {
+      "A": "Lucas-Kanade方法",
+      "B": "Horn-Schunck方法",
+      "C": "Farneback方法",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_45",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的边缘检测算法？",
+    "choices": {
+      "A": "Sobel算子",
+      "B": "Canny算子",
+      "C": "Prewitt算子",
+      "D": "Laplacian算子"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_46",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的图像金字塔表示方法？",
+    "choices": {
+      "A": "高斯金字塔",
+      "B": "Laplacian金字塔",
+      "C": "Pyramid representation",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_47",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的图像融合方法？",
+    "choices": {
+      "A": "IHS融合",
+      "B": "PCA融合",
+      "C": "Wavelet融合",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_48",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的图像压缩方法？",
+    "choices": {
+      "A": "JPEG压缩",
+      "B": "PNG压缩",
+      "C": "BMP压缩",
+      "D": "所有以上选项"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_49",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的图像增强方法？",
+    "choices": {
+      "A": "Histogram equalization",
+      "B": "Contrast stretching",
+      "C": "Noise reduction",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_50",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉中常用的图像分割方法？",
+    "choices": {
+      "A": "Watershed segmentation",
+      "B": "Level set segmentation",
+      "C": "Edge detection segmentation",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_51",
+    "type": "single",
+    "stem": "在软件开发过程中，哪个阶段主要负责确定软件的功能需求？",
+    "choices": {
+      "A": "需求分析",
+      "B": "设计",
+      "C": "编码",
+      "D": "测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_52",
+    "type": "single",
+    "stem": "敏捷开发方法中，以下哪个原则强调团队之间的交流和协作？",
+    "choices": {
+      "A": "简单性",
+      "B": "客户满意",
+      "C": "响应变化",
+      "D": "持续改进"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_53",
+    "type": "single",
+    "stem": "下列哪个选项不属于软件开发的生命周期模型？",
+    "choices": {
+      "A": "瀑布模型",
+      "B": "螺旋模型",
+      "C": "喷泉模型",
+      "D": "数据挖掘模型"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_54",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种技术用于描述系统的行为和功能？",
+    "choices": {
+      "A": "数据流图",
+      "B": "状态转换图",
+      "C": "UML类图",
+      "D": "ER图"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_55",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于评估软件的质量？",
+    "choices": {
+      "A": "代码审查",
+      "B": "单元测试",
+      "C": "集成测试",
+      "D": "性能测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_56",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于识别和消除软件中的缺陷？",
+    "choices": {
+      "A": "调试",
+      "B": "验证",
+      "C": "确认",
+      "D": "维护"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_57",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于确保软件满足用户需求？",
+    "choices": {
+      "A": "用户验收测试",
+      "B": "系统测试",
+      "C": "集成测试",
+      "D": "单元测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_58",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于评估软件的性能和可靠性？",
+    "choices": {
+      "A": "压力测试",
+      "B": "安全测试",
+      "C": "兼容性测试",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_59",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于评估软件的可用性和用户体验？",
+    "choices": {
+      "A": "可用性测试",
+      "B": "性能测试",
+      "C": "安全测试",
+      "D": "兼容性测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_60",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于评估软件的安全性？",
+    "choices": {
+      "A": "安全审计",
+      "B": "安全扫描",
+      "C": "安全测试",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_61",
+    "type": "single",
+    "stem": "在软件开发流程中，哪个阶段主要负责确定软件的功能需求？",
+    "choices": {
+      "A": "需求分析",
+      "B": "设计",
+      "C": "编码",
+      "D": "测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_62",
+    "type": "single",
+    "stem": "敏捷开发方法的核心理念是？",
+    "choices": {
+      "A": "严格的计划和控制",
+      "B": "高度的文档化",
+      "C": "持续交付和快速响应变化",
+      "D": "代码重用"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_63",
+    "type": "single",
+    "stem": "瀑布模型中，哪个阶段是在软件开发完成之后进行的？",
+    "choices": {
+      "A": "需求分析",
+      "B": "设计",
+      "C": "编码",
+      "D": "维护"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_64",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种方法主要用于提高软件的可维护性？",
+    "choices": {
+      "A": "模块化",
+      "B": "面向对象编程",
+      "C": "代码重用",
+      "D": "自动化测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_65",
+    "type": "single",
+    "stem": "哪种软件开发方法强调团队协作和客户参与？",
+    "choices": {
+      "A": "瀑布模型",
+      "B": "敏捷开发",
+      "C": "V型模型",
+      "D": "RAD模型"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_66",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种技术用于描述系统的行为和功能？",
+    "choices": {
+      "A": "UML",
+      "B": "SQL",
+      "C": "HTML",
+      "D": "Java"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_67",
+    "type": "single",
+    "stem": "哪种软件开发方法强调分阶段进行，每个阶段都有明确的目标和交付物？",
+    "choices": {
+      "A": "敏捷开发",
+      "B": "V型模型",
+      "C": "RAD模型",
+      "D": "瀑布模型"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_68",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种技术用于确保代码质量和可读性？",
+    "choices": {
+      "A": "单元测试",
+      "B": "集成测试",
+      "C": "系统测试",
+      "D": "回归测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_69",
+    "type": "single",
+    "stem": "哪种软件开发方法强调迭代和增量开发？",
+    "choices": {
+      "A": "敏捷开发",
+      "B": "V型模型",
+      "C": "RAD模型",
+      "D": "瀑布模型"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_70",
+    "type": "single",
+    "stem": "在软件开发过程中，哪种技术用于模拟用户操作和验证软件功能？",
+    "choices": {
+      "A": "UML",
+      "B": "SQL",
+      "C": "HTML",
+      "D": "自动化测试工具"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_71",
+    "type": "single",
+    "stem": "下列哪个选项不是计算机数据处理的基本步骤？",
+    "choices": {
+      "A": "数据收集",
+      "B": "数据输入",
+      "C": "数据清洗",
+      "D": "数据购买"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_72",
+    "type": "single",
+    "stem": "在数据处理中，数据的“去重”是指什么？",
+    "choices": {
+      "A": "删除重复的数据",
+      "B": "增加重复的数据",
+      "C": "修改重复的数据",
+      "D": "复制重复的数据"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_73",
+    "type": "single",
+    "stem": "下列哪个选项是数据库管理系统（DBMS）的主要功能？",
+    "choices": {
+      "A": "数据输入",
+      "B": "数据输出",
+      "C": "数据存储和检索",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_74",
+    "type": "single",
+    "stem": "在数据处理中，数据的“归一化”是指什么？",
+    "choices": {
+      "A": "将数据转换为统一的格式",
+      "B": "将数据转换为数字格式",
+      "C": "将数据转换为类别格式",
+      "D": "将数据转换为文本格式"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_75",
+    "type": "single",
+    "stem": "下列哪个选项是数据挖掘的主要任务？",
+    "choices": {
+      "A": "数据分类",
+      "B": "数据预测",
+      "C": "数据清洗",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_76",
+    "type": "single",
+    "stem": "在数据处理中，数据的“转换”是指什么？",
+    "choices": {
+      "A": "将数据从一种格式转换为另一种格式",
+      "B": "将数据从一种类型转换为另一种类型",
+      "C": "将数据从一种语言转换为另一种语言",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_77",
+    "type": "single",
+    "stem": "下列哪个选项是数据分析的主要方法？",
+    "choices": {
+      "A": "描述性分析",
+      "B": "预测性分析",
+      "C": "诊断性分析",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_78",
+    "type": "single",
+    "stem": "在数据处理中，数据的“聚合”是指什么？",
+    "choices": {
+      "A": "将数据分组以便进行统计计算",
+      "B": "将数据压缩以节省存储空间",
+      "C": "将数据加密以保护隐私",
+      "D": "将数据备份以防止丢失"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_79",
+    "type": "single",
+    "stem": "下列哪个选项是大数据处理的主要挑战？",
+    "choices": {
+      "A": "数据的存储和管理",
+      "B": "数据的分析和解释",
+      "C": "数据的获取和更新",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_80",
+    "type": "single",
+    "stem": "在人工智能中，什么是支持向量机（SVM）？",
+    "choices": {
+      "A": "一种用于分类的监督学习算法，它试图找到一个最优的超平面来区分不同的类别",
+      "B": "一种用于聚类的非监督学习算法，它试图找到数据的内在结构和群组关系",
+      "C": "一种用于生成文本的算法，它根据给定的条件生成新的文本",
+      "D": "一种用于推荐系统的算法，它根据用户的历史行为和兴趣推荐相关的内容"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_81",
+    "type": "single",
+    "stem": "人工智能的定义是什么？",
+    "choices": {
+      "A": "用计算机模拟人类智能的科学和技术",
+      "B": "用计算机模拟人类情感的科学和技术",
+      "C": "用计算机模拟人类行为的科学和技术",
+      "D": "用计算机模拟人类思维的科学和技术"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_82",
+    "type": "single",
+    "stem": "以下哪个不是人工智能的主要研究领域？",
+    "choices": {
+      "A": "机器学习",
+      "B": "自然语言处理",
+      "C": "计算机视觉",
+      "D": "网络安全"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_83",
+    "type": "single",
+    "stem": "以下哪个是监督学习的例子？",
+    "choices": {
+      "A": "K-means聚类",
+      "B": "决策树分类",
+      "C": "关联规则挖掘",
+      "D": "聚类分析"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_84",
+    "type": "single",
+    "stem": "以下哪个是无监督学习的例子？",
+    "choices": {
+      "A": "支持向量机",
+      "B": "神经网络",
+      "C": "K-means聚类",
+      "D": "线性回归"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_85",
+    "type": "single",
+    "stem": "以下哪个是强化学习的例子？",
+    "choices": {
+      "A": "遗传算法",
+      "B": "支持向量机",
+      "C": "Q-learning",
+      "D": "K-means聚类"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_86",
+    "type": "single",
+    "stem": "深度学习中的神经网络层数越多，通常意味着模型的什么能力越强？",
+    "choices": {
+      "A": "泛化能力",
+      "B": "过拟合能力",
+      "C": "计算能力",
+      "D": "存储能力"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_87",
+    "type": "single",
+    "stem": "卷积神经网络（CNN）主要用于处理哪种类型的数据？",
+    "choices": {
+      "A": "时序数据",
+      "B": "图像数据",
+      "C": "文本数据",
+      "D": "音频数据"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_88",
+    "type": "single",
+    "stem": "递归神经网络（RNN）主要用于处理哪种类型的数据？",
+    "choices": {
+      "A": "时序数据",
+      "B": "图像数据",
+      "C": "文本数据",
+      "D": "音频数据"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_89",
+    "type": "single",
+    "stem": "以下哪个是自然语言处理（NLP）的应用？",
+    "choices": {
+      "A": "语音识别",
+      "B": "图像识别",
+      "C": "推荐系统",
+      "D": "聚类分析"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_90",
+    "type": "single",
+    "stem": "以下哪个是计算机视觉（CV）的应用？",
+    "choices": {
+      "A": "语音识别",
+      "B": "图像识别",
+      "C": "推荐系统",
+      "D": "聚类分析"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_91",
+    "type": "single",
+    "stem": "数据清洗的主要目的是什么？",
+    "choices": {
+      "A": "提高数据的质量和准确性",
+      "B": "减少数据的数量",
+      "C": "增加数据的数量",
+      "D": "保护数据的隐私"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_92",
+    "type": "single",
+    "stem": "下列哪项不是数据清洗的常见步骤？",
+    "choices": {
+      "A": "缺失值处理",
+      "B": "异常值处理",
+      "C": "数据转换",
+      "D": "数据复制"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_93",
+    "type": "single",
+    "stem": "在数据清洗过程中，如何处理缺失值？",
+    "choices": {
+      "A": "删除含有缺失值的行或列",
+      "B": "用平均值、中位数或众数填充",
+      "C": "用随机值填充",
+      "D": "所有以上方法都可以"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_94",
+    "type": "single",
+    "stem": "在数据标注过程中，以下哪种标注方法是错误的？",
+    "choices": {
+      "A": "有监督学习标注",
+      "B": "无监督学习标注",
+      "C": "半监督学习标注",
+      "D": "手动标注"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_95",
+    "type": "single",
+    "stem": "在数据标注过程中，以下哪种标注类型用于分类问题？",
+    "choices": {
+      "A": "连续标注",
+      "B": "离散标注",
+      "C": "有序标注",
+      "D": "无序标注"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_96",
+    "type": "single",
+    "stem": "在数据标注过程中，以下哪种标注类型用于回归问题？",
+    "choices": {
+      "A": "连续标注",
+      "B": "离散标注",
+      "C": "有序标注",
+      "D": "无序标注"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_97",
+    "type": "single",
+    "stem": "在数据清洗过程中，如何处理异常值？",
+    "choices": {
+      "A": "删除含有异常值的行或列",
+      "B": "用平均值、中位数或众数替换异常值",
+      "C": "用随机值替换异常值",
+      "D": "所有以上方法都可以"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_98",
+    "type": "single",
+    "stem": "在数据清洗过程中，以下哪种方法是用于检测重复值的？",
+    "choices": {
+      "A": "相关性分析",
+      "B": "描述性统计分析",
+      "C": "聚类分析",
+      "D": "唯一性检查"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_99",
+    "type": "single",
+    "stem": "在数据清洗过程中，以下哪种方法是用于检测缺失值的？",
+    "choices": {
+      "A": "相关性分析",
+      "B": "描述性统计分析",
+      "C": "聚类分析",
+      "D": "唯一性检查和缺失值分析"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_100",
+    "type": "single",
+    "stem": "在数据标注过程中，以下哪种方法是用于自动标注的？",
+    "choices": {
+      "A": "有监督学习标注",
+      "B": "无监督学习标注",
+      "C": "半监督学习标注",
+      "D": "手动标注和自动标注结合的方法"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_101",
+    "type": "single",
+    "stem": "人工智能训练师的主要职责是什么？",
+    "choices": {
+      "A": "设计和开发人工智能系统",
+      "B": "训练和监督人工智能系统",
+      "C": "销售和推广人工智能产品",
+      "D": "所有以上选项"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_102",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法是最常用的？",
+    "choices": {
+      "A": "遗传算法",
+      "B": "深度学习",
+      "C": "强化学习",
+      "D": "所有以上选项"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_103",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种数据集是必不可少的？",
+    "choices": {
+      "A": "图像数据集",
+      "B": "文本数据集",
+      "C": "音频数据集",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_104",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种指标用于评估模型的性能？",
+    "choices": {
+      "A": "准确率",
+      "B": "召回率",
+      "C": "F1分数",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_105",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于处理过拟合问题？",
+    "choices": {
+      "A": "正则化",
+      "B": "数据增强",
+      "C": "Dropout",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_106",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于处理欠拟合问题？",
+    "choices": {
+      "A": "增加模型复杂度",
+      "B": "减少模型复杂度",
+      "C": "增加训练数据量",
+      "D": "减少训练数据量"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_107",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于优化模型参数？",
+    "choices": {
+      "A": "梯度下降法",
+      "B": "随机梯度下降法",
+      "C": "Adam优化器",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_108",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于处理不平衡数据集？",
+    "choices": {
+      "A": "重采样",
+      "B": "类别权重调整",
+      "C": "SMOTE过采样技术",
+      "D": "所有以上选项"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_109",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于处理缺失值？",
+    "choices": {
+      "A": "删除含有缺失值的样本",
+      "B": "用平均值填充缺失值",
+      "C": "用中位数填充缺失值",
+      "D": "用众数填充缺失值"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_110",
+    "type": "single",
+    "stem": "在训练人工智能系统时，哪种方法用于处理异常值？",
+    "choices": {
+      "A": "删除含有异常值的样本",
+      "B": "用平均值替换异常值",
+      "C": "用中位数替换异常值",
+      "D": "用众数替换异常值"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_111",
+    "type": "single",
+    "stem": "Python中，以下哪个数据类型是不可变的？",
+    "choices": {
+      "A": "列表",
+      "B": "字典",
+      "C": "元组",
+      "D": "集合"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_112",
+    "type": "single",
+    "stem": "在Python中，如何表示一个空的代码块？",
+    "choices": {
+      "A": "pass",
+      "B": "continue",
+      "C": "break",
+      "D": "None"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_113",
+    "type": "single",
+    "stem": "在Python中，如何计算一个字符串的长度？",
+    "choices": {
+      "A": "len()",
+      "B": "size()",
+      "C": "length()",
+      "D": "count()"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_114",
+    "type": "single",
+    "stem": "在Python中，如何将一个数字转换为字符串？",
+    "choices": {
+      "A": "str()",
+      "B": "int()",
+      "C": "float()",
+      "D": "bool()"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_115",
+    "type": "single",
+    "stem": "在Python中，如何定义一个函数？",
+    "choices": {
+      "A": "function()",
+      "B": "def()",
+      "C": "define()",
+      "D": "method()"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_116",
+    "type": "single",
+    "stem": "在Python中，如何导入一个模块？",
+    "choices": {
+      "A": "import module_name",
+      "B": "from module_name import function_name",
+      "C": "include module_name",
+      "D": "load module_name"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_117",
+    "type": "single",
+    "stem": "在Python中，如何创建一个列表？",
+    "choices": {
+      "A": "[]",
+      "B": "list()",
+      "C": "array()",
+      "D": "set()"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_118",
+    "type": "single",
+    "stem": "在Python中，如何遍历一个列表的元素？",
+    "choices": {
+      "A": "for item in list:",
+      "B": "for item in list():",
+      "C": "for item in list[]:",
+      "D": "for item in list{}:"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_119",
+    "type": "single",
+    "stem": "在Python中，如何判断两个值是否相等？",
+    "choices": {
+      "A": "==",
+      "B": "!=",
+      "C": "<>",
+      "D": "!=="
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_120",
+    "type": "single",
+    "stem": "在Python中，如何获取一个列表的最后一个元素？",
+    "choices": {
+      "A": "list[-1]",
+      "B": "list[0]",
+      "C": "list[1]",
+      "D": "list[len(list)]"
+    },
+    "answer": "",
+    "analysis": ""
+  },
+  {
+    "id": "single_121",
+    "type": "single",
+    "stem": "下列哪个选项不属于时间复杂度的表示方法？",
+    "choices": {
+      "A": "O(n)",
+      "B": "O(n^2)",
+      "C": "O(log n)",
+      "D": "O(n!)"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_122",
+    "type": "single",
+    "stem": "在计算机算法中，下列哪个排序算法的时间复杂度为O(n^2)？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "归并排序",
+      "D": "堆排序"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_123",
+    "type": "single",
+    "stem": "下列哪个选项不属于空间复杂度的表示方法？",
+    "choices": {
+      "A": "O(1)",
+      "B": "O(n)",
+      "C": "O(n^2)",
+      "D": "O(log n)"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_124",
+    "type": "single",
+    "stem": "在计算机算法中，下列哪个查找算法的平均时间复杂度为O(1)？",
+    "choices": {
+      "A": "顺序查找",
+      "B": "二分查找",
+      "C": "插值查找",
+      "D": "B树查找"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_125",
+    "type": "single",
+    "stem": "下列哪个选项不属于常见的递归算法？",
+    "choices": {
+      "A": "斐波那契数列",
+      "B": "阶乘计算",
+      "C": "快速排序",
+      "D": "矩阵相乘"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_126",
+    "type": "single",
+    "stem": "在计算机算法中，下列哪个算法的时间复杂度为O(n)？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "归并排序",
+      "D": "堆排序"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_127",
+    "type": "single",
+    "stem": "下列哪个选项不属于常见的动态规划问题？",
+    "choices": {
+      "A": "最长公共子序列",
+      "B": "最短路径问题",
+      "C": "背包问题",
+      "D": "矩阵链乘法"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_128",
+    "type": "single",
+    "stem": "在计算机算法中，下列哪个算法的空间复杂度为O(1)？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "归并排序",
+      "D": "堆排序"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_129",
+    "type": "single",
+    "stem": "下列哪个选项不属于常见的分治算法？",
+    "choices": {
+      "A": "二分查找",
+      "B": "快速排序",
+      "C": "归并排序",
+      "D": "广度优先搜索"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_130",
+    "type": "single",
+    "stem": "在计算机算法中，下列哪个算法的时间复杂度为O(log n)？",
+    "choices": {
+      "A": "冒泡排序",
+      "B": "快速排序",
+      "C": "归并排序",
+      "D": "堆排序"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_141",
+    "type": "single",
+    "stem": "软件测试的主要目的是什么？",
+    "choices": {
+      "A": "证明软件是正确的",
+      "B": "发现软件中的错误",
+      "C": "提高软件的性能",
+      "D": "优化软件的代码"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_142",
+    "type": "single",
+    "stem": "下列哪个选项不属于软件测试的类型？",
+    "choices": {
+      "A": "单元测试",
+      "B": "集成测试",
+      "C": "系统测试",
+      "D": "编译测试"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_143",
+    "type": "single",
+    "stem": "在软件开发过程中，哪个阶段应该进行详细的测试？",
+    "choices": {
+      "A": "需求分析阶段",
+      "B": "设计阶段",
+      "C": "编码阶段",
+      "D": "维护阶段"
+    },
+    "answer": "C",
+    "analysis": ""
+  },
+  {
+    "id": "single_144",
+    "type": "single",
+    "stem": "回归测试的主要目的是什么？",
+    "choices": {
+      "A": "确保新功能的正确性",
+      "B": "确保修改后的功能正确性",
+      "C": "确保所有功能的正确性",
+      "D": "确保软件的稳定性"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_145",
+    "type": "single",
+    "stem": "黑盒测试和白盒测试的主要区别是什么？",
+    "choices": {
+      "A": "是否需要编写测试用例",
+      "B": "是否需要了解内部结构",
+      "C": "是否需要运行程序",
+      "D": "是否需要人工干预"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_146",
+    "type": "single",
+    "stem": "下列哪个选项不属于软件缺陷的分类？",
+    "choices": {
+      "A": "逻辑错误",
+      "B": "语法错误",
+      "C": "数据错误",
+      "D": "界面错误"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_147",
+    "type": "single",
+    "stem": "哪种测试方法主要关注软件的内部结构和实现细节？",
+    "choices": {
+      "A": "黑盒测试",
+      "B": "白盒测试",
+      "C": "灰盒测试",
+      "D": "压力测试"
+    },
+    "answer": "B",
+    "analysis": ""
+  },
+  {
+    "id": "single_148",
+    "type": "single",
+    "stem": "哪种测试方法主要关注软件的功能和性能，而不关心内部实现？",
+    "choices": {
+      "A": "黑盒测试",
+      "B": "白盒测试",
+      "C": "灰盒测试",
+      "D": "压力测试"
+    },
+    "answer": "A",
+    "analysis": ""
+  },
+  {
+    "id": "single_149",
+    "type": "single",
+    "stem": "哪种测试方法主要关注软件在不同环境和条件下的稳定性？",
+    "choices": {
+      "A": "黑盒测试",
+      "B": "白盒测试",
+      "C": "灰盒测试",
+      "D": "压力测试"
+    },
+    "answer": "D",
+    "analysis": ""
+  },
+  {
+    "id": "single_150",
+    "type": "single",
+    "stem": "哪种测试方法主要关注软件的安全性和可靠性？",
+    "choices": {
+      "A": "黑盒测试",
+      "B": "白盒测试",
+      "C": "灰盒测试",
+      "D": "安全测试"
+    },
+    "answer": "D",
+    "analysis": ""
+  }
+]
